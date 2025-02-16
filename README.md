@@ -1,8 +1,6 @@
 ### Hi there, I'm Benjamin 👋😄
 
-Master’s student in Computer Science with a love for Computer Graphics, visual story-telling, and technical problem-solving. Currently looking for:
-- A Master’s thesis position in Computer Graphics at a company during Fall 2023, and
-- A traineeship in 2024 after graduation.
+Master’s student in Computer Science with a love for Computer Graphics, visual story-telling, and technical problem-solving. Always looking for fun opportunities within these fields!
 
 <!--
 **Sannholm/Sannholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
