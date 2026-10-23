@@ -1,6 +1,6 @@
 ### Hi there, I'm Benjamin 👋😄
 
-Master’s student in Computer Science with a love for Computer Graphics, visual story-telling, and technical problem-solving. Always looking for fun opportunities within these fields!
+Master’s graduate of Computer Science with a love for Computer Graphics, visual story-telling, and technical problem-solving. Always looking for fun opportunities within these fields!
 
 <!--
 **Sannholm/Sannholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
